@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841491756255",
+    "project_id": "voiceconnect-1f62e",
+    "storage_bucket": "voiceconnect-1f62e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841491756255:android:a761be9c3a11de91d5656a",
+        "android_client_info": {
+          "package_name": "com.app.voiceconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQCwRR9jTx-TdOYVPIkxEA0e5kTry39s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
